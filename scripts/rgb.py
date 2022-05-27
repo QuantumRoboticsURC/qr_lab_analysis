@@ -1,4 +1,3 @@
-
 import time
 from std_msgs.msg import *
 import cv2
